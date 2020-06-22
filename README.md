@@ -89,6 +89,8 @@ For instruction on how to use Particle, reference the following.
 - [Community Tutorials](https://community.particle.io/c/tutorials)
 - [Particle Reference Material](https://docs.particle.io/reference/device-os/firmware/electron/)
 
+Use code found in file *gauge.cpp*
+
 #### Particle Cloud Storage
 
 The next process is what allows the data to be sent from the “cloud” to a data storage destination that gives more flexibility of data management.  
