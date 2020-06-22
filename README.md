@@ -1,4 +1,4 @@
-# Construction of a Water Level Gauge for Use on Whitewater Rivers
+# Water Level Gauge for Use on Whitewater Rivers
 
 ## Abstract
 
@@ -118,13 +118,13 @@ Though the data has been sent to Google sheets, it must be properly interpreted,
 
 The script of the Google Sheet document must be edited. Click on “Tools” opening a dropdown menu. Click on “Script Editor”. Paste the code.
 
-Code and explanations can be found in 9.3 GOOGLE SHEETS CODE.
-
 After code from the appendix is copied to the Google Sheets script, the ranging data from the device will now input into Google Sheets in one large column.
+
+Code and explanation are found [here](https://gist.github.com/mhawksey/1276293)
 
 #### Presentation
 
-Currently, the data is displayed in a gauge format, as seen in Figure 1. Custom ranges and colors can be set, indicating high, normal, and low flows. Each display should be tuned to individual needs. Graphs may be more appropriate for some applications, showing trends over days or weeks. Google Sheets provides comprehensive chart building tools, allowing for a high degree of customization.
+Currently, the data is displayed in a gauge format. Custom ranges and colors can be set, indicating high, normal, and low flows. Each display should be tuned to individual needs. Graphs may be more appropriate for some applications, showing trends over days or weeks. Google Sheets provides comprehensive chart building tools, allowing for a high degree of customization.
 
 For all styles of charts, only the most recent entry should be referenced, reflecting the current water level. This can be done with a simple query in Google Sheets cell. This is found in 9.2 GOOGLE SHEETS QUERY.
 
