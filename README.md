@@ -1,4 +1,4 @@
-# Water Level Gauge for Use on Whitewater Rivers
+# River Level Gauge for Use on Whitewater Rivers
 
 ## Abstract
 
